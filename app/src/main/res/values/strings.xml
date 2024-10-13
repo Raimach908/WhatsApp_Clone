@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WhatsAap_Clone</string>
+    <string name="login_button">Log In</string>
+    <string name="name_hint">Name</string>
+    <string name="mobile_number_hint">Mobile Number</string>
+    <string name="read_our_privacy_policy_tap">Read our Privacy Policy. Tap \\</string>
+    <string name="agree_and_continue">Agree and continue</string>
+    <string name="english">English</string>
+    <string name="read_our_privacy_policy_tap_agree_and_continue_to_accept_the_terms_of_services">Read our Privacy Policy. Tap Agree and continue to accept the Terms of service.</string>
+    <string name="welcome_to_whatsapp">Welcome to WhatsApp</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+
+    <string name="enter_your_phone_number_">Enter your phone number</string>
+    <string name="whatsapp_will_need_to_verify_your_account_carrier_charges_may_apply">
+        WhatsApp will need to verify your account. Carrier charges may apply.
+    </string>
+    <string name="your_phone_number">Your phone number</string>
+    <string name="next">Next</string>
+    <string name="verify_1_555_123_4567">Verify +1 (555) 123-4567</string>
+    <string name="waiting_to_automatically_detect_an_sms_sent_to_1_555_123_4567">Waiting to automatically detect an SMS sent to +1 (555) 123-4567.</string>
+    <string name="call_me">Call me</string>
+    <string name="resend_sms">Resend SMS</string>
+    <string name="please_provide_your_name_and_an_optional_profile_photo">Please provide your name and an optional profile photo.</string>
+    <string name="upload_profile_photo">Upload Profile Photo</string>
+    <string name="type_your_name_here">Type your name here</string>
+    <string name="profile_info">Profile info</string>
+
+    <!-- Country Codes -->
+    <string-array name="country_codes">
+        <item>+1 (USA)</item>
+        <item>+44 (UK)</item>
+        <item>+92 (Pk)</item>
+        <item>+91 (India)</item>
+        <item>+61 (Australia)</item>
+        <!-- Add more country codes as needed -->
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="whatsappclone">WhatsAppClone</string>
+    <string name="chats_tab_content">Chats Tab Content</string>
+
+</resources>
