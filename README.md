@@ -20,7 +20,8 @@ To get started, follow these steps:
 
 **Clone the Repository**
 
-git clone https://github.com/raimach908/whatsapp-clone.git
+git clone https://github.com/Raimach908/WhatsApp_Clone.git
+
 cd whatsapp-clone
 
 **Open in Android Studio**
